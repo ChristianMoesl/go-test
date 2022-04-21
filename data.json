@@ -1,0 +1,17 @@
+{
+  "benchmarks": [
+    {
+      "timestamp": "today",
+      "parameters": {
+        "cpu": {
+          "type": "Number",
+          "value": 2
+        },
+        "os": {
+          "type": "Text",
+          "value": "MacOS"
+        }
+      }
+    }
+  ]
+}
